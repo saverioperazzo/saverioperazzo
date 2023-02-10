@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hello There !!! 
 
 
 ## Boas vindos ao meu perfil 😀
 
 Meu nome é Saverio Perazzo e sou completamente apaixonado por tecnologia.
 
-Atualmente sou estudante da Trybe, .
+Atualmente sou estudante da Trybe.
 
 <br>
 
