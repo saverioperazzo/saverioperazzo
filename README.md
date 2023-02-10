@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## Boas vindas ao meu perfil 😀
+## Boas vindos ao meu perfil 😀
 
 Meu nome é Saverio Perazzo e sou completamente apaixonado por tecnologia.
 
