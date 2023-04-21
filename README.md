@@ -7,7 +7,7 @@ Meu nome é Saverio Perazzo e sou completamente apaixonado pela liberdade de cri
 
 Sou formado em engenharia civil e atualmente sou estudante da Trybe. No momento finalizei o modulo de fundamentos e estou estudando Front-End.
 
-📨saverioperazzo@gmail.com<br>
+✉️saverioperazzo@gmail.com<br>
 📱 (83)999042030<br>
 linkedin: https://www.linkedin.com/in/saverio-luigi-perazzo-95b101b5/
 
