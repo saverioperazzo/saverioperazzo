@@ -9,8 +9,9 @@ Atualmente sou estudante da Trybe. No momento finalizei o modulo de fundamentos 
 
 Programador e desenhista nas horas vagas.
 
-✉️ saverioperazzo@gmail.com<br>
-📱 (83)999042030<br> 
+Tecnologias e Ferramentas <br>
+<img height="180em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
 
 <br>
 
