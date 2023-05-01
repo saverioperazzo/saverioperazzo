@@ -22,9 +22,7 @@ linkedin: https://www.linkedin.com/in/saverio-luigi-perazzo-95b101b5/
 </div>
 
 <br>
-[![LinkedIn Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Link perfil no LinkedIn])]([Link perfil no LinkedIn])
 
-<a href="[Link perfil no LinkedIn]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!-- TECNOLOGIAS -->
 <div align="center">
@@ -39,7 +37,7 @@ linkedin: https://www.linkedin.com/in/saverio-luigi-perazzo-95b101b5/
 <!-- REDES SOCIAIS -->
 <div align="center">
   <a href="https://instagram.com/saverioperazzo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/saverioperazzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/saverio-luigi-perazzo-95b101b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href="mailto:saverioperazzo@gmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a>  
   
   ![](https://visitor-badge.glitch.me/badge?page_id=saverioperazzo)
