@@ -1,13 +1,13 @@
 ### Hello There !!! 
 
 
-## Boas vindos ao meu perfil 😀
+## Boas vindos ao meu perfil !!!
 
-Meu nome é Saverio Perazzo e sou completamente apaixonado pela liberdade de criação da tecnologia.
+Meu nome é Saverio Perazzo , minha formação academica é em engenharia civil, trabalhei com projetos e equipes de diversos estados. Comecei meus estaudos em programação e hoje posso falar que sou completamente apaixonado pela liberdade de criação da tecnologia.
 
-Sou formado em engenharia civil e atualmente sou estudante da Trybe. No momento finalizei o modulo de fundamentos e estou estudando Front-End.
+Atualmente sou estudante da Trybe. No momento finalizei o modulo de fundamentos e estou estudando Front-End.
 
-✉️saverioperazzo@gmail.com<br>
+✉️ saverioperazzo@gmail.com<br>
 📱 (83)999042030<br>
 linkedin: https://www.linkedin.com/in/saverio-luigi-perazzo-95b101b5/
 
