@@ -37,7 +37,7 @@ Atualmente sou estudante da Trybe. No momento finalizei o modulo de fundamentos 
 <div align="center">
   <a href="https://instagram.com/saverioperazzo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/saverio-luigi-perazzo-95b101b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   <a href="mailto:saverioperazzo@gmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a>  
+   <a href="mailto:saverioperazzo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style='width: 28px' target="_blank"></a>  
   
   ![](https://visitor-badge.glitch.me/badge?page_id=saverioperazzo)
 </div>
