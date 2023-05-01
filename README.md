@@ -8,7 +8,7 @@ Meu nome é Saverio Perazzo , minha formação academica é em engenharia civil,
 Atualmente sou estudante da Trybe. No momento finalizei o modulo de fundamentos e estou estudando Front-End.
 
 ✉️ saverioperazzo@gmail.com<br>
-📱 (83)999042030<br> <a  href= https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white></a>
+📱 (83)999042030<br> 
 
 <br>
 
