@@ -9,7 +9,7 @@ Atualmente sou estudante da Trybe. No momento finalizei o modulo de fundamentos 
 
 Programador e desenhista nas horas vagas.
 
-Tecnologias e Ferramentas <br>
+## Tecnologias e Ferramentas <br>
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 <img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
