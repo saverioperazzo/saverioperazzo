@@ -10,7 +10,7 @@ Atualmente sou estudante da Trybe. No momento finalizei o modulo de fundamentos 
 Programador e desenhista nas horas vagas.
 
 Tecnologias e Ferramentas <br>
-<img height="80em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img height="40em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 
 <br>
