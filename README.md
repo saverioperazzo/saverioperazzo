@@ -39,7 +39,7 @@ Atualmente sou estudante da Trybe. No momento finalizei o modulo de fundamentos 
   <a href="https://www.linkedin.com/in/saverio-luigi-perazzo-95b101b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href="mailto:saverioperazzo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style='width: 86px' target="_blank"></a>  
   
-  ![](https://visitor-badge.glitch.me/badge?page_id=saverioperazzo)
+<!--   ![](https://visitor-badge.glitch.me/badge?page_id=saverioperazzo) -->
 </div>
 
 
