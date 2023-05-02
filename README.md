@@ -10,6 +10,12 @@ Atualmente sou estudante da Trybe. No momento finalizei o modulo de fundamentos 
 Programador e desenhista nas horas vagas.
 
 ## Tecnologias e Ferramentas <br>
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+	<div class="table-container">
+    <h1 style="font-size: 36px; font-weight: bold;">Core</h1>
+    <table style="width:100%;float:left">
       <tr>
 	    <td>
           <span><b><center></center></b></span>
@@ -24,11 +30,28 @@ Programador e desenhista nas horas vagas.
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/git.png">
         </td>
       </tr>
-
-
-
+    </table>
+  </div>
 <br>
-
+  <div class="table-container">
+    <h1 style="font-size: 36px; font-weight: bold;">Front-end</h1>
+    <table style="width:100%;float:left">
+      <tr>
+        <td>
+          <span><b><center></center></b></span>
+          <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/react.png">
+        </td>
+        <td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/html.png">
+        </td>
+        <td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/css.png">
+        </td>
+      </tr>
+    </table>
+  </div>
 <!-- GITHUB STATUS -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saverioperazzo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
