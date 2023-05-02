@@ -10,7 +10,20 @@ Atualmente sou estudante da Trybe. No momento finalizei o modulo de fundamentos 
 Programador e desenhista nas horas vagas.
 
 ## Tecnologias e Ferramentas <br>
-<img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img height="40em" src="https://camo.githubusercontent.com/ae61b0ddad90a6f9be866adec7dbca2dcca1819e3204f07916d6f34ae058b4c9/68747470733a2f2f7777772e6c6561726e73746f7279626f6f6b2e636f6d2f696e74726f2d746f2d73746f7279626f6f6b2f6c6f676f2d6a6573742e706e67"><img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><img height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <tr>
+	    <td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/javascript.png">
+        </td>
+        <td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/typescript.png">
+        </td>
+		<td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/git.png">
+        </td>
+      </tr>
 
 
 
@@ -46,18 +59,4 @@ Programador e desenhista nas horas vagas.
 <!--   ![](https://visitor-badge.glitch.me/badge?page_id=saverioperazzo) -->
 </div>
 
-
-<!--
-**saverioperazzo/saverioperazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=200" />
