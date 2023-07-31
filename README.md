@@ -41,6 +41,18 @@ Programador e desenhista nas horas vagas.
           <span><b><center></center></b></span>
           <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/react.png">
         </td>
+		<td>
+          <span><b><center></center></b></span>
+          <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/reactRouter.png">
+        </td>
+        <td>
+          <span><b><center></center></b></span>
+          <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/context-Api.png">
+        </td>
+        <td>
+          <span><b><center></center></b></span>
+          <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/redux.png">
+        </td>
         <td>
           <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/html.png">
@@ -48,7 +60,7 @@ Programador e desenhista nas horas vagas.
         <td>
           <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/css.png">
-        </td>
+	</td>    
       </tr>
     </table>
   </div>
